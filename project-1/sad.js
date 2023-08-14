@@ -42,3 +42,12 @@ depositBtn.addEventListener("click", function(){
    const totalAmount = depositNumber + currentNumber;
    document.getElementById(id).innerText = totalAmount;
 }
+
+
+// echo "# distruck-js" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/mahbubhossain7/distruck-js.git
+// git push -u origin main
